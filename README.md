@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 
 [![Javen's github stats](https://github-readme-stats.vercel.app/api?username=avennn&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avennn)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/avennn">
+  <img src="https://github-readme-stats.vercel.app/api?username=avennn&show_icons=true" />
+</a>
