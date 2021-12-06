@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Javen Leung. 👋
 
 <!--
 **avennn/avennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-[![Javen's github stats](https://github-readme-stats.vercel.app/api?username=avennn&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avennn)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/avennn">
   <img src="https://github-readme-stats.vercel.app/api?username=avennn&show_icons=true" />
+</a>
+<a href="https://github.com/avennn">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avennn" />
 </a>
