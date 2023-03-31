@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
+<span>公众号：文言前端</span>
+
 <a href="https://github.com/avennn">
   <img src="https://github-readme-stats.vercel.app/api?username=avennn&show_icons=true" />
 </a>
