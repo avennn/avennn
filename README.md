@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 <p>公众号：文言前端</p>
 <p>掘金：<a href="https://juejin.cn/user/2594503171781149">https://juejin.cn/user/2594503171781149</a></p>
+<p>知乎：<a href="www.zhihu.com/people/liang-jian-wen-80">https://www.zhihu.com/people/liang-jian-wen-80</a></p>
 
 <a href="https://github.com/avennn">
   <img src="https://github-readme-stats.vercel.app/api?username=avennn&show_icons=true" />
